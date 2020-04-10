@@ -1,0 +1,22 @@
+08.02.2019
+======== Сведения о местоположении машины ========
+Имя компьютера вручную = 
+IP из ранее опрошенных АРМ = 
+======== Общие сведения о АРМ и пользователе ========
+REGIONS\n6100-00-186 на N6100-W40214920
+Microsoft Windows 7 Профессиональная |C:\Windows|\Device\Harddisk0\Partition2
+N6100-W40214920
+REGIONS\n6100-00-186
+======== Сетевые характеристики ========
+Intel(R) 82579V Gigabit Network Connection
+44:8A:5B:20:06:FE
+ || 10.161.101.25 || 
+======== Опрос АРМ на предмет программно-аппаратных характеристик ========
+ || Model: Kraftway Corporation PLC. || Product: KWH77 || SN.: To be filled by O.E.M.
+ || BIOS Info name & ver.: BIOS Date: 10/01/13 13:59:34 Ver: 04.06.05
+ || Info: Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz
+ || Info: Intel(R) HD Graphics
+Info: Универсальный монитор PnP || DeviceID: DesktopMonitor1
+Type: Fixed hard disk media || Model: WDC WD5000AAKX-22ERM SCSI Disk Device || SN:      WD-WCC2EUZ97806 || Interface: IDE
+
+================

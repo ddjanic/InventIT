@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventIT", "InventIT.csproj", "{99850DA0-2F98-4925-B991-8B29BB4AA2F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99850DA0-2F98-4925-B991-8B29BB4AA2F6}.Debug|x86.ActiveCfg = Debug|x86
+		{99850DA0-2F98-4925-B991-8B29BB4AA2F6}.Debug|x86.Build.0 = Debug|x86
+		{99850DA0-2F98-4925-B991-8B29BB4AA2F6}.Release|x86.ActiveCfg = Release|x86
+		{99850DA0-2F98-4925-B991-8B29BB4AA2F6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {915400BA-2415-4990-86E6-2919C419EB32}
+	EndGlobalSection
+EndGlobal

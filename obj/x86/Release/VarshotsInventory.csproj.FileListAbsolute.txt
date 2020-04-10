@@ -1,0 +1,7 @@
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\bin\Release\VarshotsInventory.exe
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\bin\Release\VarshotsInventory.pdb
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Release\VarshotsInventory.MainForm.resources
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Release\VarshotsInventory.Properties.Resources.resources
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Release\VarshotsInventory.csproj.GenerateResource.Cache
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Release\VarshotsInventory.exe
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Release\VarshotsInventory.pdb

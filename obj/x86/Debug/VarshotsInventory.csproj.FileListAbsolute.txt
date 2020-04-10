@@ -1,0 +1,17 @@
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\bin\Debug\VarshotsInventory.exe
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\bin\Debug\VarshotsInventory.pdb
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Debug\VarshotsInventory.MainForm.resources
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Debug\VarshotsInventory.Properties.Resources.resources
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Debug\VarshotsInventory.csproj.GenerateResource.Cache
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Debug\VarshotsInventory.exe
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Debug\VarshotsInventory.pdb
+C:\Users\stolyarskiye\Google Диск\Программирование\Проекты\Visual Studio 2010\Projects\VarshotsInventory\VarshotsInventory\obj\x86\Debug\VarshotsInventory.csprojResolveAssemblyReference.cache
+C:\Users\ddjanic\Desktop\_dev\_invent.it\VarshotsInventory_03-15-21_10_15.07.2015\bin\Debug\VarshotsInventory.exe
+C:\Users\ddjanic\Desktop\_dev\_invent.it\VarshotsInventory_03-15-21_10_15.07.2015\bin\Debug\VarshotsInventory.pdb
+C:\Users\ddjanic\Desktop\_dev\_invent.it\VarshotsInventory_03-15-21_10_15.07.2015\obj\x86\Debug\VarshotsInventory.csprojResolveAssemblyReference.cache
+C:\Users\ddjanic\Desktop\_dev\_invent.it\VarshotsInventory_03-15-21_10_15.07.2015\obj\x86\Debug\VarshotsInventory.MainForm.resources
+C:\Users\ddjanic\Desktop\_dev\_invent.it\VarshotsInventory_03-15-21_10_15.07.2015\obj\x86\Debug\VarshotsInventory.Properties.Resources.resources
+C:\Users\ddjanic\Desktop\_dev\_invent.it\VarshotsInventory_03-15-21_10_15.07.2015\obj\x86\Debug\VarshotsInventory.csproj.GenerateResource.Cache
+C:\Users\ddjanic\Desktop\_dev\_invent.it\VarshotsInventory_03-15-21_10_15.07.2015\obj\x86\Debug\VarshotsInventory.csproj.CoreCompileInputs.cache
+C:\Users\ddjanic\Desktop\_dev\_invent.it\VarshotsInventory_03-15-21_10_15.07.2015\obj\x86\Debug\VarshotsInventory.exe
+C:\Users\ddjanic\Desktop\_dev\_invent.it\VarshotsInventory_03-15-21_10_15.07.2015\obj\x86\Debug\VarshotsInventory.pdb
